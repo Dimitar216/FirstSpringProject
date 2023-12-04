@@ -1,0 +1,6 @@
+com\example\project\student\Student.class
+com\example\project\ProjectApplication.class
+com\example\project\student\StudentConfig.class
+com\example\project\student\StudentRepository.class
+com\example\project\student\StudentController.class
+com\example\project\student\StudentService.class
